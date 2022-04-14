@@ -1,10 +1,10 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Tesfahun, Data Scientist in Workforce Management currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Berlin, Germany</b>. </p>
+<p>Welcome to my page! </br> I'm Tesfahun, Data Scientist in Workforce Management currently living in <img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/de.svg" width="13"/> <b>Berlin, Germany</b>. </p>
 <h3>Languages I program with</h3>
 <p>
-  <img alt="R" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=R&logoColor=white" />
+  <img alt="R" src="https://img.shields.io/badge/-R-45b8d8?style=flat-square&logo=R&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-8DD6F9?style=flat-square&logo=python&logoColor=white" /> 
   <img alt="SQL" src="https://img.shields.io/badge/-SQL-46a2f1?style=flat-square&logo=sql&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-2088FF?style=flat-square&logo=c++&logoColor=white" />
@@ -12,7 +12,7 @@
 
 <h3>Tools I work with</h3>
 <p>
-  <img alt="Power BI" src="https://img.shields.io/badge/-power-bi-45b8d8?style=flat-square&logo=power bi&logoColor=white" />
+  <img alt="Power BI" src="https://img.shields.io/badge/-powerbi-45b8d8?style=flat-square&logo=power bi&logoColor=white" />
   <img alt="Tableau" src="https://img.shields.io/badge/-tableau-8DD6F9?style=flat-square&logo=tableau&logoColor=white" /> 
   <img alt="Excel" src="https://img.shields.io/badge/-Excel-46a2f1?style=flat-square&logo=excel&logoColor=white" />
   <img alt="Google Data Studio" src="https://img.shields.io/badge/-Google Data Studio-2088FF?style=flat-square&logo=google-data-studio&logoColor=white" />
