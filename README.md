@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Tesfahun, Data Scientist in Workforce Management currently living in <img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/de.svg" width="13"/> <b>Berlin, Germany</b>. </p>
+<p>Welcome to my page! </br> I'm Tesfahun, Data Scientist in Workforce Management currently living in <img src="https://github.com/lipis/flag-icons/blob/main/flags/1x1/pl.svg" width="13"/> <b>Warsaw, Poland</b>. </p>
 <h3>Languages I program with</h3>
 <p>
   <img alt="R" src="https://img.shields.io/badge/-R-45b8d8?style=flat-square&logo=R&logoColor=white" />
